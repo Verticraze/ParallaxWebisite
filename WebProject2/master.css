@@ -43,12 +43,12 @@ header
     font-weight: 600;
 }
 
-.Navigation a:hover,.Navigation a:active
+.Navigation a:hover
 {
     background-color: blueviolet;
     color: #f9f9f9;
 }
-.parallax
+.Parallax
 {
     position: relative;
     display: flex;
